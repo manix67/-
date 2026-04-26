@@ -2,7 +2,7 @@
 
 ## Ссылки
 
-- **Бот:** 
+- **Бот:** https://t.me/Vivri_bot
 - **Презентация:** [https://docs.google.com/presentation/d/1XkiQOUoFGZYSX3dTaI1nOGJQfLblKBhINUmJPfxppag/edit?usp=sharing](#)
 
 ---
